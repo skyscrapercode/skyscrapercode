@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hello there, I'm currently a student learning to code in multiple languages, my dream is to become a full stack developer one day and be able to code no matter the language, for now I've coded in HTML, CSS, JS, PHP, VB, C++, Python, Java
+
+
 <!--
 **skyscrapercode/skyscrapercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
